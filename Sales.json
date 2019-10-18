@@ -1,0 +1,49 @@
+{
+  "Sales": [
+    {
+      "Customer_name": "Ali",
+      "Book_name": "HTTP",
+      "Price": "25"
+    },
+    {
+      "Customer_name": "Ahmed",
+      "Book_name": "FORTRAN",
+      "Price": "2"
+    },
+    {
+      "Customer_name": "Noman",
+      "Book_name": "C#",
+      "Price": "5"
+    },
+    {
+      "Customer_name": "Qadir",
+      "Book_name": "Python",
+      "Price": "10"
+    },
+    {
+      "Customer_name": "Tufail",
+      "Book_name": "C",
+      "Price": "25"
+    },
+    {
+      "Customer_name": "Danish",
+      "Book_name": "HTML",
+      "Price": "8"
+    },
+    {
+      "Customer_name": "Amir",
+      "Book_name": "CSS",
+      "Price": "4"
+    },
+    {
+      "Customer_name": "Mufti",
+      "Book_name": "Javascript",
+      "Price": "63"
+    },
+    {
+      "Customer_name": "Jhon",
+      "Book_name": "Ajax",
+      "Price": "9"
+    }
+  ]
+}
